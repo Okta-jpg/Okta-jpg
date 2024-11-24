@@ -1,5 +1,5 @@
 # 💫 About Me:
-A 5th semester Information Systems student at Bina Nusantara University with a focus on web development and cloud computing. 20 years old with a strong passion for creating innovative and scalable web applications. Actively developing skills in front-end, back-end technologies, and cloud solution-based implementation. The goal is to make significant contributions in web development projects that prioritize user experience and performance. 
+Hi Im Oktavianus A 5th semester Information Systems student at Bina Nusantara University with a focus on web development and cloud computing. 20 years old with a strong passion for creating innovative and scalable web applications. Actively developing skills in front-end, back-end technologies, and cloud solution-based implementation. The goal is to make significant contributions in web development projects that prioritize user experience and performance. 
 
 
 ## 🌐 Socials:

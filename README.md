@@ -17,6 +17,6 @@ Hi Im Oktavianus A 5th semester Information Systems student at Bina Nusantara Un
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
-Okta-jpg/Okta-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sen4Tech/Sen4Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
